@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonu\\source\\repos\\awesomedevevents\\awesomedevevents.api\\controllers\\deveventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\controllers\\deveventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonu\\source\\repos\\awesomedevevents\\awesomedevevents.api\\mappers\\deveventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\mappers\\deveventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonu\\source\\repos\\awesomedevevents\\awesomedevevents.api\\models\\deveventinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\models\\deveventinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonu\\source\\repos\\awesomedevevents\\awesomedevevents.api\\models\\deveventspeakerinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\models\\deveventspeakerinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonu\\source\\repos\\awesomedevevents\\awesomedevevents.api\\models\\deveventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\models\\deveventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonu\\source\\repos\\awesomedevevents\\awesomedevevents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D52A83-4FE5-4336-88C9-F822C153455A}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 169,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DevEventsController.cs",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAWwCMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:31:37.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Program.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Program.cs",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Program.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:18:32.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DevEventProfile.cs",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Mappers\\DevEventProfile.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Mappers\\DevEventProfile.cs",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Mappers\\DevEventProfile.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Mappers\\DevEventProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:10:55.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DevEventViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventViewModel.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Models\\DevEventViewModel.cs",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventViewModel.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Models\\DevEventViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:58:34.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DevEventSpeakerInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventSpeakerInputModel.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Models\\DevEventSpeakerInputModel.cs",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventSpeakerInputModel.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Models\\DevEventSpeakerInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:53:50.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevEventInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventInputModel.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Models\\DevEventInputModel.cs",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventInputModel.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Models\\DevEventInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:53:15.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
